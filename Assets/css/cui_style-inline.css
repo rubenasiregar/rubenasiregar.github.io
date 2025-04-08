@@ -1,0 +1,31 @@
+.cui-wrapper {
+    font-size: 14px
+  }
+.cui-post-author {
+color: white !important;
+background: #777 !important;
+}
+.cui-wrapper ul.cui-container-comments li.cui-item-comment .cui-comment-avatar img {
+  max-width: 28px;
+  max-height: 28px;
+}
+.cui-wrapper ul.cui-container-comments li.cui-item-comment .cui-comment-content {
+  margin-left: 38px;
+}
+.cui-wrapper ul.cui-container-comments li.cui-item-comment ul .cui-comment-avatar img {
+  max-width: 24px;
+  max-height: 24px;
+}
+.cui-wrapper ul.cui-container-comments li.cui-item-comment ul ul .cui-comment-avatar img {
+  max-width: 21px;
+  max-height: 21px;
+}
+.cui_comment_count_card.cui_card-tidak_hadir {
+background-color: #d90a11;
+}
+.cui_comment_count_card.cui_card-hadir {
+background-color: #3D9A62;
+}
+.cui_comment_count_card.cui_card-masih_ragu {
+background-color: #d7a916;
+}
